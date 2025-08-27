@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # --- TEXTOS: normalize tudo para LF (bom para Linux/servers e evita surpresas) ---
 *.c        text eol=lf
 *.cpp      text eol=lf
@@ -16,9 +14,3 @@
 *.yaml     text eol=lf
 *.yml      text eol=lf
 *.sh       text eol=lf
-=======
-#*.json text eol=lf
->>>>>>> 857c392061983ccb1bac088657ca9c9f378c9327
-=======
-# *.json text eol=lf
->>>>>>> 45ab0ea242bd441af52d3a34fc817fad659ae145
